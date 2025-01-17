@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+.links {
+  margin-top: 40px;
+  padding: 30px;
+}
+.links a {
+  padding: 30px;
+  color: brown;
+}
+.links a:hover {
+  color: bisque;
+}
+.links a:visited {
+  color: pink;
+}
+img {
+  width: 700px;
+  border-radius: 20px;
+}
