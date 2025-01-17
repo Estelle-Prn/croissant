@@ -1,5 +1,6 @@
 body {
   text-align: center;
+  background-color: antiquewhite;
 }
 .links {
   margin-top: 40px;
@@ -7,13 +8,13 @@ body {
 }
 .links a {
   padding: 30px;
-  color: brown;
+  color: hotpink;
 }
 .links a:hover {
-  color: bisque;
+  color: darkmagenta;
 }
 .links a:visited {
-  color: pink;
+  color: crimson;
 }
 img {
   width: 700px;
